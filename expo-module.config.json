@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android"],
+  "apple": {
+    "modules": ["ReactNativeForgeModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.forge.ReactNativeForgeModule"]
+  }
+}
